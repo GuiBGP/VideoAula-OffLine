@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Todos ID='Todos' Valor='Todos' Descricao='Contém Todas as Matérias do Curso' >
+<Periodo ID='Primeiro' Valor='1 - Período' Descricao='' >
+<Disciplina ID='EAD05001' Valor='Introdução à Informática' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05002' Valor='Construção de Página Web' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+<Aula ID='Aula19' Valor='Aula_019' Descricao='0.0' />
+<Aula ID='Aula20' Valor='Aula_020' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05003' Valor='Inglês Instrumental' Descricao='' />
+<Disciplina ID='EAD05004' Valor='Fundamentos de Algorítmos para Computação' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+<Aula ID='Aula19' Valor='Aula_019' Descricao='0.0' />
+<Aula ID='Aula20' Valor='Aula_020' Descricao='0.0' />
+<Aula ID='Aula21' Valor='Aula_021' Descricao='0.0' />
+<Aula ID='Aula22' Valor='Aula_022' Descricao='0.0' />
+<Aula ID='Aula23' Valor='Aula_023' Descricao='0.0' />
+<Aula ID='Aula24' Valor='Aula_024' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05005' Valor='Projeto e Desenvolvimento de Algoritmo' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+</Disciplina>
+</Periodo>
+<Periodo ID='Segundo' Valor='2 - Período' Descricao='' >
+<Disciplina ID='EAD05006' Valor='Álgebra Linear' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05007' Valor='Estrutura de Dados' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+<Aula ID='Aula19' Valor='Aula_019' Descricao='0.0' />
+<Aula ID='Aula20' Valor='Aula_020' Descricao='0.0' />
+<Aula ID='Aula21' Valor='Aula_021' Descricao='0.0' />
+<Aula ID='Aula22' Valor='Aula_022' Descricao='0.0' />
+<Aula ID='Aula23' Valor='Aula_023' Descricao='0.0' />
+<Aula ID='Aula24' Valor='Aula_024' Descricao='0.0' />
+<Aula ID='Aula25' Valor='Aula_025' Descricao='0.0' />
+<Aula ID='Aula26' Valor='Aula_026' Descricao='0.0' />
+<Aula ID='Aula27' Valor='Aula_027' Descricao='0.0' />
+<Aula ID='Aula28' Valor='Aula_028' Descricao='0.0' />
+<Aula ID='Aula29' Valor='Aula_029' Descricao='0.0' />
+<Aula ID='Aula30' Valor='Aula_030' Descricao='0.0' />
+<Aula ID='Aula31' Valor='Aula_031' Descricao='0.0' />
+<Aula ID='Aula32' Valor='Aula_032' Descricao='0.0' />
+<Aula ID='Aula33' Valor='Aula_033' Descricao='0.0' />
+<Aula ID='Aula34' Valor='Aula_034' Descricao='0.0' />
+<Aula ID='Aula35' Valor='Aula_035' Descricao='0.0' />
+<Aula ID='Aula36' Valor='Aula_036' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05008' Valor='Matemática para Computação' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05009' Valor='Fundamentos de Programação' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+</Disciplina>
+</Periodo>
+<Periodo ID='Terceiro' Valor='3 - Período' Descricao='' >
+<Disciplina ID='EAD05010' Valor='Organização de Computadores' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05011' Valor='Modelagem de Informação' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+<Aula ID='Aula19' Valor='Aula_019' Descricao='0.0' />
+<Aula ID='Aula20' Valor='Aula_020' Descricao='0.0' />
+<Aula ID='Aula21' Valor='Aula_021' Descricao='0.0' />
+<Aula ID='Aula22' Valor='Aula_022' Descricao='0.0' />
+<Aula ID='Aula23' Valor='Aula_023' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05012' Valor='Probabilidade e Estatística' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05013' Valor='Programação I' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+</Disciplina>
+</Periodo>
+<Periodo ID='Quarto' Valor='4 - Período' Descricao='' >
+<Disciplina ID='EAD05014' Valor='Banco de Dados' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+<Aula ID='Aula19' Valor='Aula_019' Descricao='0.0' />
+<Aula ID='Aula20' Valor='Aula_020' Descricao='0.0' />
+<Aula ID='Aula21' Valor='Aula_021' Descricao='0.0' />
+<Aula ID='Aula22' Valor='Aula_022' Descricao='0.0' />
+<Aula ID='Aula23' Valor='Aula_023' Descricao='0.0' />
+<Aula ID='Aula24' Valor='Aula_024' Descricao='0.0' />
+<Aula ID='Aula25' Valor='Aula_025' Descricao='0.0' />
+<Aula ID='Aula26' Valor='Aula_026' Descricao='0.0' />
+<Aula ID='Aula27' Valor='Aula_027' Descricao='0.0' />
+<Aula ID='Aula28' Valor='Aula_028' Descricao='0.0' />
+<Aula ID='Aula29' Valor='Aula_029' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05015' Valor='Física para Computação' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+<Aula ID='Aula19' Valor='Aula_019' Descricao='0.0' />
+<Aula ID='Aula20' Valor='Aula_020' Descricao='0.0' />
+<Aula ID='Aula21' Valor='Aula_021' Descricao='0.0' />
+<Aula ID='Aula22' Valor='Aula_022' Descricao='0.0' />
+<Aula ID='Aula23' Valor='Aula_023' Descricao='0.0' />
+<Aula ID='Aula24' Valor='Aula_024' Descricao='0.0' />
+<Aula ID='Aula25' Valor='Aula_025' Descricao='0.0' />
+<Aula ID='Aula26' Valor='Aula_026' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05016' Valor='Sistemas Operacionais' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05017' Valor='Programação II' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+</Disciplina>
+</Periodo>
+<Periodo ID='Quinto' Valor='5 - Período' Descricao='' >
+<Disciplina ID='EAD05018' Valor='Arquitetura e Projeto de Sistemas I' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+<Aula ID='Aula19' Valor='Aula_019' Descricao='0.0' />
+<Aula ID='Aula20' Valor='Aula_020' Descricao='0.0' />
+<Aula ID='Aula21' Valor='Aula_021' Descricao='0.0' />
+<Aula ID='Aula22' Valor='Aula_022' Descricao='0.0' />
+<Aula ID='Aula23' Valor='Aula_023' Descricao='0.0' />
+<Aula ID='Aula24' Valor='Aula_024' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05019' Valor='Engenharia de Software' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05020' Valor='Redes de Computadores I' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05021' Valor='Programação III' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+</Disciplina>
+</Periodo>
+<Periodo ID='Sexto' Valor='6 - Período' Descricao='' >
+<Disciplina ID='EAD05022' Valor='Arquitetura e Projeto de Sistemas II' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+<Aula ID='Aula19' Valor='Aula_019' Descricao='0.0' />
+<Aula ID='Aula20' Valor='Aula_020' Descricao='0.0' />
+<Aula ID='Aula21' Valor='Aula_021' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05023' Valor='Computação Gráfica' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+<Aula ID='Aula19' Valor='Aula_019' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05024' Valor='Empreendedorismo e Ética Profissional' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05025' Valor='Redes de Computadores II' Descricao='' >
+<Aula ID='Aula1' Valor='Aula_001' Descricao='0.0' />
+<Aula ID='Aula2' Valor='Aula_002' Descricao='0.0' />
+<Aula ID='Aula3' Valor='Aula_003' Descricao='0.0' />
+<Aula ID='Aula4' Valor='Aula_004' Descricao='0.0' />
+<Aula ID='Aula5' Valor='Aula_005' Descricao='0.0' />
+<Aula ID='Aula6' Valor='Aula_006' Descricao='0.0' />
+<Aula ID='Aula7' Valor='Aula_007' Descricao='0.0' />
+<Aula ID='Aula8' Valor='Aula_008' Descricao='0.0' />
+<Aula ID='Aula9' Valor='Aula_009' Descricao='0.0' />
+<Aula ID='Aula10' Valor='Aula_010' Descricao='0.0' />
+<Aula ID='Aula11' Valor='Aula_011' Descricao='0.0' />
+<Aula ID='Aula12' Valor='Aula_012' Descricao='0.0' />
+<Aula ID='Aula13' Valor='Aula_013' Descricao='0.0' />
+<Aula ID='Aula14' Valor='Aula_014' Descricao='0.0' />
+<Aula ID='Aula15' Valor='Aula_015' Descricao='0.0' />
+<Aula ID='Aula16' Valor='Aula_016' Descricao='0.0' />
+<Aula ID='Aula17' Valor='Aula_017' Descricao='0.0' />
+<Aula ID='Aula18' Valor='Aula_018' Descricao='0.0' />
+<Aula ID='Aula19' Valor='Aula_019' Descricao='0.0' />
+<Aula ID='Aula20' Valor='Aula_020' Descricao='0.0' />
+<Aula ID='Aula21' Valor='Aula_021' Descricao='0.0' />
+<Aula ID='Aula22' Valor='Aula_022' Descricao='0.0' />
+<Aula ID='Aula23' Valor='Aula_023' Descricao='0.0' />
+</Disciplina>
+<Disciplina ID='EAD05026' Valor='Trabalho de Conclusão de Curso' Descricao='' />
+
+</Periodo>
+</Todos>

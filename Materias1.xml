@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Todos ID='Todos' Valor='Todos'>
+	<Periodo ID='Primeiro' Valor='1 - Período'  >
+		<Disciplina >EAD05001 </Disciplina> 
+		<Disciplina >EAD05002 </Disciplina> 
+		<Disciplina >EAD05003 </Disciplina> 
+		<Disciplina >EAD05004 </Disciplina> 
+		<Disciplina >EAD05005 </Disciplina> 
+	</Periodo>
+	<Periodo ID='Segundo' Valor='2 - Período' >
+		<Disciplina >EAD05006 </Disciplina> 
+		<Disciplina >EAD05007 </Disciplina> 
+		<Disciplina >EAD05008 </Disciplina> 
+		<Disciplina >EAD05009 </Disciplina> 
+	</Periodo>
+	<Periodo ID='Terceiro' Valor='3 - Período' >
+		<Disciplina >EAD05010 </Disciplina> 
+		<Disciplina >EAD05011 </Disciplina> 
+		<Disciplina >EAD05012 </Disciplina> 
+		<Disciplina >EAD05013 </Disciplina> 
+	</Periodo>
+	<Periodo ID='Quarto' Valor='4 - Período'>
+		<Disciplina >EAD05014 </Disciplina> 
+		<Disciplina >EAD05015 </Disciplina> 
+		<Disciplina >EAD05016 </Disciplina> 
+		<Disciplina >EAD05017 </Disciplina> 
+	</Periodo>
+	<Periodo ID='Quinto' Valor='5 - Período'>
+		<Disciplina >EAD05018 </Disciplina> 
+		<Disciplina >EAD05019 </Disciplina> 
+		<Disciplina >EAD05020 </Disciplina> 
+		<Disciplina >EAD05021 </Disciplina> 
+	</Periodo>
+	<Periodo ID='Sexto' Valor='6 - Período'>
+		<Disciplina >EAD05022 </Disciplina> 
+		<Disciplina >EAD05023 </Disciplina> 
+		<Disciplina >EAD05024 </Disciplina> 
+		<Disciplina >EAD05025 </Disciplina> 
+		<Disciplina >EAD05026 </Disciplina> 
+	</Periodo>
+</Todos>
